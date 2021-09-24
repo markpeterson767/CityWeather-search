@@ -1,0 +1,46 @@
+{
+  "coord":{
+    "lon":79.8478,
+    "lat":6.9319
+  },
+  "weather":[
+    {
+      "id":804,
+      "main":"Clouds",
+      "description":"overcast clouds",
+      "icon":"04n"
+    }
+  ],
+  "base":"stations",
+  "main":{
+    "temp":25.97,
+    "feels_like":25.97,
+    "temp_min":25.97,
+    "temp_max":25.97,
+    "pressure":1008,
+    "humidity":87,
+    "sea_level":1008,
+    "grnd_level":1007
+  },
+  "visibility":10000,
+  "wind":{
+    "speed":3.26,
+    "deg":230,
+    "gust":4.12
+  },
+  "clouds":{
+    "all":100
+  },
+  "dt":1631998046,
+  "sys":{
+    "type":1,
+    "id":9098,
+    "country":"LK",
+    "sunrise":1632011427,
+    "sunset":1632055116
+  },
+  "timezone":19800,
+  "id":1248991,
+  "name":"Colombo",
+  "cod":200
+}
